@@ -9,6 +9,9 @@ Run [`main.py`](main.py) to see the prototype in action.
 
 The project is designed in such a way that you can easily change the interface for the application. The prototype uses a simple CLI, but the `Interface` class (in [`interface.py`](interface.py)) can be changed to use, say, a Flask powered web application, or a GUI application using tkinter, etc.
 
+Link to the project details: https://docs.google.com/document/d/12akZLW5MbphFfAxk4QEyh3bEkXYdSV8ebNNDRbbqLbk/edit?usp=sharing
+
+
 ## Note:
 1. This program requires the following third-party packages. These packages are included in the virtual environment included in the project, but you have to install them if you plan not to use it.
     1. `cryptopgraphy` (for Fernet encryption)
